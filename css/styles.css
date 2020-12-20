@@ -3565,7 +3565,7 @@ input::-moz-focus-inner {
     font-weight: 400;
     font-size: 3.6rem;
     line-height: 1.444;
-    color: var(--color-white);
+    color: #26f7c3;
     padding-left: 3.6em;
     position: relative;
 }
