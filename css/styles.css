@@ -3105,7 +3105,9 @@ input::-moz-focus-inner {
     position: relative;
 }
 
-
+#hello {
+    color:black;
+}
 /* -------------------------------------------------------------------
  * ## header logo
  * ------------------------------------------------------------------- */
@@ -3491,7 +3493,7 @@ input::-moz-focus-inner {
     top: 0;
     right: 0;
     bottom: 0;
-    left: 36.5vw;
+    left: 73.5vw;
 }
 
 .s-hero__bg::after {
